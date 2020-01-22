@@ -1,6 +1,6 @@
 # Sophie Engle
 
-![Profile Image](profile.png)
+![Profile Image](profile.jpeg)
 
 :woman_teacher: *Hello!*
 
